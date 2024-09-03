@@ -2,7 +2,8 @@ August 27, 2024: Today I started learning Git and created my first project using
 
 Aug 27, 2024: Still trying this out. hopefully I get in the habit of doing this more ofter.
 
-
+Gratitude log:
+Sep 3, 2024: Im adding this to test out the merge conflict, lets see how it goes.
 
 Dream-Journal: Aug 26,2024: I was teaching having an argument with a child who didnt want to learn how to speak, however whenever he said something I could understand him just fine. Like his "augh" and "hmphs" were clear as day to me, but couldnt relay that to his family. 
 
