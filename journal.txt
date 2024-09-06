@@ -4,6 +4,7 @@ Aug 27, 2024: Still trying this out. hopefully I get in the habit of doing this 
 Sep 3, 2024: Getting more practice on Git, but seriously need to work on that Wordpress course.
 Sep 4, 2024: Need to make a habit of studying earlier than playing earlier lol!
 Sep 5, 2024: Starting to practice stashing on git
+Sep 5, 2024: working on cherry-picking with git
 
 Gratitude log:
 Sep 3, 2024: Im adding this to test out the merge conflict, lets see how it goes.
